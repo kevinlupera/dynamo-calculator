@@ -40,7 +40,7 @@ describe("calculateCapacityDynamo", () => {
   it("should calculate the capacity units correctly", () => {
     const item = {
       id: "f0ba8d6c",
-      fullName: "Kevin Luera",
+      fullName: "Kevin Lupera",
       isAdmin: true,
       favouriteNumber: -1e-131,
       foods: ["encebollado", "tonga"],

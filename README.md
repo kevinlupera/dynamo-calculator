@@ -43,7 +43,7 @@ Get additional DynamoDb query cost information for this item
 import { calculateCapacityDynamo } from "dynamo-calculator";
 const item = {
   id: "f0ba8d6c",
-  fullName: "Kevin Luera",
+  fullName: "Kevin Lupera",
   isAdmin: true,
   favouriteNumber: -1e-131,
   foods: ["encebollado", "tonga"],
@@ -67,7 +67,7 @@ Get info about size for this item
 import { calculateItemSize } from "dynamo-calculator";
 const item = {
   id: "f0ba8d6c",
-  fullName: "Kevin Luera",
+  fullName: "Kevin Lupera",
   isAdmin: true,
   favouriteNumber: -1e-131,
   foods: ["encebollado", "tonga"],
