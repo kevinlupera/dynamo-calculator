@@ -1,6 +1,6 @@
 {
   "name": "dynamo-calculator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Dynamo Calculator is a powerful and efficient tool designed to perform complex mathematical calculations with ease. It supports a wide range of functions including basic arithmetic, algebra, calculus, and more. Whether you are a student, educator, or professional, Dynamo Calculator provides a user-friendly interface and robust features to meet your computational needs.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kevinlupera/dynamo-calculator"
+    "url": "git+ssh://git@github.com/kevinlupera/dynamo-calculator.git"
   },
   "scripts": {
     "start": "ts-node src/index.ts",
